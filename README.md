@@ -6,7 +6,6 @@ This repository contains the R code used for the tables, figures, and simulation
 The code includes:
 - reproduction of the benchmark LGE results,
 - implementation of the stochastic SIRD--OU framework,
-- Monte Carlo pricing simulations, and
 - generation of thesis tables and figures.
 
 The main R scripts are located in the `Bond_Price_LGE_SIRD_Github` folder.
